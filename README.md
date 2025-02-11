@@ -21,5 +21,5 @@ Una aplicación web completa para una tienda en línea llamada Electrónica OnLi
 ### 2. [Tienda de Productos Electrónicos](https://github.com/DanielDM1999/UT3_Tienda_Electronica)
 Un sitio web para una tienda online de productos electrónicos que ofrece una experiencia de compra sencilla, personalizable y segura. Este proyecto incluye gestión de productos, carrito de compras, autenticación de usuarios y opciones de personalización.
 
-### 3. [Sistema de Compra de Paquetes de Libros](https://github.com/DanielDM1999/Sistema_Libros/blob/main/README.md)
+### 3. [Sistema de Compra de Paquetes de Libros](https://github.com/DanielDM1999/Sistema_Libros/blob/main)
 Un sistema de gestión para la compra de paquetes de libros en una librería, diseñado para manejar libros de Matemáticas y Lenguaje. Desarrollado en PHP, este sistema permite la creación y gestión de paquetes de libros, cálculo de importes totales y clasificación por categoría. Incluye una interfaz intuitiva con formulario de compra, resumen de paquetes adquiridos y actualización dinámica de precios. Utiliza una arquitectura basada en clases con una estructura organizada en controladores, modelos y vistas.
